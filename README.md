@@ -155,6 +155,12 @@ Este proyecto está bajo la Licencia MIT.
 
 ## 📧 Contacto
 
+<<<<<<< HEAD
 incapoter@gmail.com
 
 
+=======
+Tu Nombre -
+
+Link del Proyecto: 
+>>>>>>> origin/main
