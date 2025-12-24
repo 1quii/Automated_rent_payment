@@ -1,0 +1,56 @@
+# .gitignore para Django
+# Este archivo indica qué carpetas/archivos NO subir a GitHub
+
+# ===== ARCHIVOS SENSIBLES (¡MUY IMPORTANTE!) =====
+.env
+*.env
+.env.local
+secrets.json
+config/settings/local.py
+
+# Claves de Stripe y secretos
+*SECRET_KEY*
+*API_KEY*
+
+# ===== BASE DE DATOS =====
+*.sqlite3
+db.sqlite3
+*.db
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# ===== Django =====
+*.log
+local_settings.py
+media/
+staticfiles/
+static_collected/
+
+# ===== IDEs =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ===== Migrations (opcional, algunos las incluyen) =====
+# */migrations/*.py
+# !*/migrations/__init__.py
+
+# ===== Otros =====
+*.bak
+*.tmp
+.coverage
+htmlcov/
+.pytest_cache/
+node_modules/
