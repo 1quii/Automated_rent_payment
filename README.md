@@ -22,8 +22,7 @@ Sistema de gestión de propiedades en alquiler con pagos recurrentes automático
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
-cd TU_REPOSITORIO
+git clone 
 ```
 
 ### 2. Crear entorno virtual
@@ -156,6 +155,6 @@ Este proyecto está bajo la Licencia MIT.
 
 ## 📧 Contacto
 
-Tu Nombre - [@tu_twitter](https://twitter.com/tu_twitter)
+incapoter@gmail.com
 
-Link del Proyecto: [https://github.com/TU_USUARIO/TU_REPOSITORIO](https://github.com/TU_USUARIO/TU_REPOSITORIO)
+
