@@ -156,6 +156,6 @@ Este proyecto está bajo la Licencia MIT.
 
 ## 📧 Contacto
 
-Tu Nombre - [@tu_twitter](https://twitter.com/tu_twitter)
+Tu Nombre -
 
-Link del Proyecto: [https://github.com/TU_USUARIO/TU_REPOSITORIO](https://github.com/TU_USUARIO/TU_REPOSITORIO)
+Link del Proyecto: 
