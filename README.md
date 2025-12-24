@@ -22,7 +22,7 @@ Sistema de gestión de propiedades en alquiler con pagos recurrentes automático
 ### 1. Clonar el repositorio
 
 ```bash
-git clone 
+git clone https://github.com/1quii/Automated_rent_payment
 ```
 
 ### 2. Crear entorno virtual
@@ -153,9 +153,6 @@ Las contribuciones son bienvenidas. Por favor:
 
 Este proyecto está bajo la Licencia MIT.
 
-## 📧 Contacto
-
-incapoter@gmail.com
 
 
 
